@@ -1,6 +1,8 @@
  **Hey**👋
  I’m Christ , a 24-year-old studying computer science based in France, with a strong desire to share my work with you. I look forward to hearing from you ! 😄
 
+ PS: I'm back after a few months of absence 😉
+
 ## ⚙️ Skills
 
 - **Programming Languages** : `Java`, `C`, `JavaScript`, `Python`
