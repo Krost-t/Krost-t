@@ -41,10 +41,10 @@
 
 ## 🏆 Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/Krhost/)
-- [TryHackMe](https://tryhackme.com/r/p/christ.matsangan)
-- [Codingame](https://www.codingame.com/profile/5daf8e1c97f1a02c8711213a20768aa13142446)
-- [Hack the box academy](https://academy.hackthebox.com/dashboard)
+- 🧩 [LeetCode](https://leetcode.com/u/Krhost/)  
+- 🔐 [TryHackMe](https://tryhackme.com/r/p/christ.matsangan)  
+- 🎮 [CodinGame](https://www.codingame.com/profile/5daf8e1c97f1a02c8711213a20768aa13142446)  
+- 🛡️ [Hack The Box Academy](https://academy.hackthebox.com/dashboard)  
 
 
 ## 🚀 Ongoing Major Projects
