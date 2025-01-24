@@ -41,18 +41,16 @@
 
 ## 🏆 Coding Profiles
 
-- 🧩 [LeetCode](https://leetcode.com/u/Krhost/)  
 - 🔐 [TryHackMe](https://tryhackme.com/r/p/christ.matsangan)  
 - 🎮 [CodinGame](https://www.codingame.com/profile/5daf8e1c97f1a02c8711213a20768aa13142446)  
-- 🛡️ [Hack The Box Academy](https://academy.hackthebox.com/dashboard)  
 
 
 ## 🚀 Ongoing Major Projects
 
 I’m currently working on several significant projects. Stay tuned for updates!  
-- **[Project Name 1](#)**: Brief description of the project.  
-- **[Project Name 2](#)**: Brief description of the project.  
-- **[Project Name 3](#)**: Brief description of the project.
+- **[Roadmap Full Stack developer](https://github.com/Krost-t/my-full-stack-roadmap)**:   
+- **[Bomberman](https://github.com/Krost-t/Bomberman)**:
+
 
 Feel free to reach out for collaboration or feedback! 
 
