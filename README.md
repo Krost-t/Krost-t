@@ -36,7 +36,7 @@
 ## ⚡ Fun fact 
 
 - One piece is the best manga ever !
-- "neeko is the right choice"
+- Don't play League of Legends, you'll get stuck on it.
 
 
 ## 🏆 Coding Profiles
