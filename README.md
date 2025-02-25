@@ -43,6 +43,7 @@
 
 - 🔐 [TryHackMe](https://tryhackme.com/r/p/christ.matsangan)  
 - 🎮 [CodinGame](https://www.codingame.com/profile/5daf8e1c97f1a02c8711213a20768aa13142446)  
+- 💻 [LeetCode](https://leetcode.com/u/Krhost/)
 
 
 ## 🚀 Ongoing Major Projects
