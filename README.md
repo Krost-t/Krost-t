@@ -50,8 +50,7 @@
 
 I’m currently working on several significant projects. Stay tuned for updates!  
 - **[Roadmap Full Stack developer](https://github.com/Krost-t/my-full-stack-roadmap)**   
-- **[Bomberman](https://github.com/Krost-t/Bomberman)**
-- **[Learning Java](https://github.com/Krost-t/roadmap-java)**
+
 
 
 Feel free to reach out for collaboration or feedback! 
