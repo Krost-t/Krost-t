@@ -54,6 +54,7 @@ I’m currently working on several significant projects. Stay tuned for updates!
 - **[Online Billing App](https://github.com/Krost-t/Online-Billing)**   
 - **[My OS](https://github.com/Krost-t/krost-os)**
 - **[Bomberman](https://github.com/Krost-t/bomberman)**
+- **[ChatBot AI](https://github.com/Krost-t/chatbot-AI)**
 
 
 
