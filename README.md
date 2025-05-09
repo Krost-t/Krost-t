@@ -46,12 +46,14 @@
 - 💻 [LeetCode](https://leetcode.com/u/Krost-t/)
 
 
+
 ## 🚀 Ongoing Major Projects
 
 I’m currently working on several significant projects. Stay tuned for updates!  
 - **[Roadmap Full Stack developer](https://github.com/Krost-t/my-full-stack-roadmap)**
 - **[Online Billing App](https://github.com/Krost-t/Online-Billing)**   
-- **[My OS](https://github.com/Krost-t/krost-os)**   
+- **[My OS](https://github.com/Krost-t/krost-os)**
+- **[Bomberman](https://github.com/Krost-t/bomberman)**
 
 
 
