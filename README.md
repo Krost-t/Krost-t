@@ -1,43 +1,40 @@
- **Hey**👋
- I’m Christ , a 25-year-old studying computer science based in France, with a strong desire to share my work with you. I look forward to hearing from you ! 😄
+**Hey** 👋  
+I’m Christ, a 25-year-old studying computer science based in France, with a strong desire to share my work with you. I look forward to hearing from you! 😄
 
+🌐 **Website**: [krost.fr](https://krost.fr/)
 
 ## ⚙️ Skills
 
-- **Programming Languages** : `Java`, `C`, `JavaScript`, `Python`
-- **Database Management Systems** : `MySQL`, `PostgreSQL`, `MongoDB`
-- **Version Control Tools** : `Git`
-- **Development Environments** : `Visual Studio Code`, `IntelliJ IDEA`, `Eclips`
-
+- **Programming Languages**: `Java`, `C`, `JavaScript`, `Python`
+- **Database Management Systems**: `MySQL`, `PostgreSQL`, `MongoDB`
+- **Version Control Tools**: `Git`
+- **Development Environments**: `Visual Studio Code`, `IntelliJ IDEA`, `Eclipse`
 
 ## 🎯 Goals
 
-🕒 short and medium-term :
-  * Make a Full Stack Developer Roadmap
-  * Improve My English
-  * Find a Professional Opportunity
-    
-🕰️ over the long term :
-  * for the time being pursue a career as a developer in tech, in industry  or finance/banking 
-  * Bringing my ideas to life
+🕒 **Short & mid-term**:  
+  * Build a Full Stack Developer Roadmap  
+  * Level up my English  
+  * Score a pro opp  
 
+🕰️ **Long-term**:  
+  * Kickstart a dev career in tech, industry, or finance/banking  
+  * Bring my wildest ideas to life  
 
 ## 🎭 Hobbies
 
-- I enjoy doing sport
-- watch documentaries on : 
-  - astronomy
-  - engineering
-  - science
-- watching horror/paranormal films
-- Sleep
+- Grinding at sports  
+- Bingeing docs on:  
+  - Astronomy  
+  - Engineering  
+  - Science  
+- Scaring myself with horror/paranormal flicks  
+- Catching Z’s 😴  
 
+## ⚡ Fun fact
 
-## ⚡ Fun fact 
-
-- One piece is the best manga ever !
-- Don't play League of Legends, you'll get stuck on it.
-
+- **One Piece is the GOAT manga!**  
+- Avoid League of Legends—trust me, it’s a time-sink.  
 
 ## 🏆 Coding Profiles
 
@@ -45,25 +42,19 @@
 - 🎮 [CodinGame](https://www.codingame.com/profile/5daf8e1c97f1a02c8711213a20768aa13142446)  
 - 💻 [LeetCode](https://leetcode.com/u/Krost-t/)
 
-
-
 ## 🚀 Ongoing Major Projects
 
 I’m currently working on several significant projects. Stay tuned for updates!  
-- **[Roadmap Full Stack developer](https://github.com/Krost-t/my-full-stack-roadmap)**
-- **[Online Billing App](https://github.com/Krost-t/Online-Billing)**   
-- **[My OS](https://github.com/Krost-t/krost-os)**
-- **[Bomberman](https://github.com/Krost-t/bomberman)**
-- **[ChatBot AI](https://github.com/Krost-t/chatbot-AI)**
+- **[Roadmap Full Stack Developer](https://github.com/Krost-t/my-full-stack-roadmap)**  
+- **[Online Billing App](https://github.com/Krost-t/Online-Billing)**  
+- **[My OS](https://github.com/Krost-t/krost-os)**  
+- **[Bomberman](https://github.com/Krost-t/bomberman)**  
+- **[ChatBot AI](https://github.com/Krost-t/chatbot-AI)**  
 
+Feel free to reach out for collabs or feedback! 🚀
 
+## 📬 Contact
 
-Feel free to reach out for collaboration or feedback! 
-
-## 📬 Contact 
-
-* Mail : [christ.matsanganzoulou@gmail.com](mailto:christ.matsanganzoulou@gmail.com)
-
-* Linkedin : [christ-matsanga](https://www.linkedin.com/in/christ-matsanga-755a59303/)
-
-
+- ✉️ Mail: [christ.matsanganzoulou@gmail.com](mailto:christ.matsanganzoulou@gmail.com)  
+- 🔗 LinkedIn: [christ-matsanga](https://www.linkedin.com/in/christ-matsanga-755a59303/)  
+- 🌐 Website: [krost.fr](https://krost.fr/)
