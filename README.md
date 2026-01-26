@@ -45,10 +45,7 @@ I’m Christ, a 26-year-old studying computer science based in France, with a st
 ## 🚀 Ongoing Major Projects
 
 I’m currently working on several significant projects. Stay tuned for updates!  
-- **[Roadmap Full Stack Developer](https://github.com/Krost-t/my-full-stack-roadmap)**  
-- **[Online Billing App](https://github.com/Krost-t/Online-Billing)**  
-- **[My OS](https://github.com/Krost-t/krost-os)**  
-- **[Bomberman](https://github.com/Krost-t/bomberman)**  
+
 
 
 Feel free to reach out for collabs or feedback! 🚀
