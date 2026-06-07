@@ -1,5 +1,5 @@
 **Hey** 👋  
-I’m Christ, a 26-year-old studying computer science based in France, with a strong desire to share my work with you. I look forward to hearing from you! 😄
+Christ · 26 years old · CS student based in France 🇫🇷, I develop projects in Java, TypeScript and Python. Feel free to check out my projects and let me know what you think !😄
 
 🌐 **Website**: [krost.fr](https://krost.fr/)
 
@@ -7,7 +7,7 @@ I’m Christ, a 26-year-old studying computer science based in France, with a st
 
 - **Programming Languages**: `Java`, `C`, `JavaScript`, `Python`
 - **Database Management Systems**: `MySQL`, `PostgreSQL`, `MongoDB`
-- **Version Control Tools**: `Git`
+- **Version Control Tools**: `Git`, `Docker`, `Docker Compose`, `Linux`
 - **Development Environments**: `Visual Studio Code`, `IntelliJ IDEA`, `Eclipse`
 
 ## 🎯 Goals
